@@ -1,5 +1,7 @@
 # belly button challenge
 
+## Deployed the app to the github pages - https://arunavenkatachalam.github.io/belly-button-challenge/
+
  # INTRODUCTION
  In this challenge, I have build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
